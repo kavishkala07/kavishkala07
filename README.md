@@ -24,7 +24,7 @@
 
 ## 🧠 About Me
 
-```python
+```
 kavish = {
     "university"  : "SRMIST KTR, Chennai",
     "degree"      : "B.Tech Computer Science & Engineering",
